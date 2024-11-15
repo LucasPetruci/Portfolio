@@ -11,9 +11,7 @@ function App() {
     <div>
       <div id="portfolio">
         <h1 className="desktop-title">
-          <MdOutlineArrowBackIos className="arrow" />
-          Hiago Mendes /
-          <MdOutlineArrowForwardIos className="arrow" />
+          Lucas Petruci
         </h1>
         <Header className="mobile-header" />
         <Sidebar />

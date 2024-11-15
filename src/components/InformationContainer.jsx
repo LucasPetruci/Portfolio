@@ -4,7 +4,7 @@ import { AiOutlineMail, AiFillEnvironment } from "react-icons/ai";
 
 const InformationContainer = () => {
   const handleEmailClick = () => {
-    window.location.href = "mailto:hiagoliv3ira@gmail.com";
+    window.location.href = "mailto:lucaspetruci100@gmail.com";
   };
 
   const handleLocationClick = () => {
@@ -13,7 +13,7 @@ const InformationContainer = () => {
 
   const handleLikedinClick = () => {
     window.open(
-      "https://www.linkedin.com/in/hiago-oliveira-520647212/",
+      "https://www.linkedin.com/in/lucaspetruci/",
       "_blank"
     );
   };
@@ -24,14 +24,14 @@ const InformationContainer = () => {
         <FaLinkedinIn id="linkedin-icon" />
         <div>
           <h3>LinkedIn</h3>
-          <p>Hiago Oliveira</p>
+          <p>Lucas Petruci</p>
         </div>
       </div>
       <div className="info-card" onClick={handleEmailClick}>
         <AiOutlineMail id="email-icon" />
         <div>
           <h3>E-mail</h3>
-          <p>hiagoliv3ira@gmail.com</p>
+          <p>lucaspetruci100@gmail.com</p>
         </div>
       </div>
       <div className="info-card" onClick={handleLocationClick}>

@@ -9,11 +9,6 @@ const EducationContainer = () => {
       institution: "Instituto Federal Fluminense",
       date: "2020 - 2025",
     },
-    {
-      title: "Técnico em Informática",
-      institution: "Centro Educacional Evolução",
-      date: "2022 - 2023",
-    },
   ];
 
   return (

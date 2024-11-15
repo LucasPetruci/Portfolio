@@ -19,9 +19,7 @@ function Header() {
   return (
     <header className="header mobile-header">
       <h1>
-        <MdOutlineArrowBackIos className="arrow" />
-        Hiago Mendes /
-        <MdOutlineArrowForwardIos className="arrow" />
+        Lucas Petruci
       </h1>
       <button className="hamburger" onClick={toggleMenu}>
         {isMenuOpen ? <MdOutlineClose /> : <RxHamburgerMenu />}

@@ -51,14 +51,14 @@ const Sidebar = () => {
 
   return (
     <aside id="sidebar">
-      <img src={Avatar} alt="Hiago Mendes" />
-      <p className="title subtitle">Software Engineer</p>
+      <img src={Avatar} alt="Lucas Petruci" />
+      <p className="title subtitle">Desenvolvedor mobile</p>
       <SocialNetworkContainer />
       <InformationContainer />
       <a
-        href="/Hiago De Oliveira Mendes - Curriculo.pdf"
+        href="/LucasPetruciCurriculo.pdf"
         className="btn"
-        download="Hiago De Oliveira Mendes - Curriculo.pdf"
+        download="LucasPetruciCurriculo.pdf"
       >
         Download currículo
       </a>

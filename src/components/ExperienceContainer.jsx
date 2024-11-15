@@ -5,25 +5,47 @@ import "../styles/components/experienceContainer.sass";
 const ExperienceContainer = () => {
   const experienceData = [
     {
-      title: "Desenvolvedor Back-end",
-      company: "Polo de Inovação Campos dos Goytacazes (PICG)",
+      title: "Desenvolvedor mobile",
+      company:
+        "Polo de Inovação Campos dos Goytacazes (PICG) - SoftSeg e Embrapii",
       date: "Abril/2024 - Atualmente",
-      tasks:
-        "Participo do projeto EMBRAPII, (Evolução de Ferramental de Software para Cálculo de Score de Risco e Avaliação de Eficiência Energética na Condução de Veículos Automotores), no Polo de Inovação. Como back-end, estou desenvolvendo uma API RESTful utilizando NestJS, capaz de integrar com APIs externas e calcular o score de risco dos condutores. Além disso, utilizo Flutter para criar interfaces mobile, ampliando o acesso e usabilidade das soluções desenvolvidas.",
+      tasks: `
+      • Responsável pelo desenvolvimento de interfaces em Flutter para aplicativos móveis com base layout no Figma.
+      • Colaboração com a equipe de design e back-end para criar uma experiência de usuário intuitiva.
+      • Responsável por corrigir bugs e otimizar o desempenho das aplicações.
+      • Integração com API do Google.
+      • Criação de código em linguagem nativa para comunicação com Flutter.
+      • Utilização de Design Pattern - MVC.
+      • Utilização dos princípios de SOLID.
+      • Consumo de APIs em RESTful com package HTTP.
+      • Gerenciamento de estado e injeção de dependência com Provider.
+      • Versionamento de código com Git.
+      • Utilização de deep linking.
+      • Experiência em Kanban como modelo ágil.
+      `,
     },
     {
-      title: "Operador técnico N1 JR 1, Desenvolvedor JR",
-      company: "MINSAIT BRASIL - Indra Company",
-      date: "Dezembro/2022 a Março/2024",
+      title: "Analista de Dados",
+      company: "Polo de Inovação Campos dos Goytacazes (PICG) - T&D Suntentável",
+      date: "Setembro/2023 a Abril/2024",
       tasks:
-        "Atuei como desenvolvedor jr, utilizando React e hospedando projetos no GitLab, além de fornecer suporte para toda a equipe. Realizei suporte técnico em sistemas Windows e arquitetura PC, bem como configuração e gerenciamento de impressoras. Prestei atendimento de 1º nível conforme o Catálogo de Serviços e fui responsável pela gestão de ativos, inventário de TI (hardware, software e licenças) e suporte a redes.",
+      `
+      • Responsável por extração e análise de dados sobre consumo de água.
+      • Extração de dados de planilha em python, utilizando a biblioteca pandas.
+      • Persistência de dados em MySql.
+      • Utilização de regressão linear para predição de novos dados.
+      `,
     },
     {
-      title: "Técnico de Informática & Desenvolvedor JR",
-      company: "FyberMAN do Brasil",
-      date: "Março/2022 a Outubro/2022",
+      title: "Q&A",
+      company: "Polo de Inovação Campos dos Goytacazes (PICG)",
+      date: "Agosto/2022 a Setembro/2023",
       tasks:
-        "Fui responsável por toda a TI de uma start-up em rápido crescimento, acumulando diversas responsabilidades. Desenvolvi aplicações e plugins em Python para otimizar processos e documentação, criei e mantive o site da empresa, além de prestar assistência técnica e controlar equipamentos de informática. Também cuidei da infraestrutura de rede, emiti relatórios e laudos técnicos, providenciei materiais para manutenção e orientei operadores sobre o uso adequado de equipamentos, garantindo o bom funcionamento da área tecnológica.",
+      `
+      • Responsável pela atualização da Biblioteca ShouldDSL para Python 3.
+      • Teste de software utilizando TDD.
+      • Integração com Pytest para gerar relatório em html
+      `,
     },
   ];
 
@@ -37,7 +59,19 @@ const ExperienceContainer = () => {
             <h3>{experience.title}</h3>
             <h4 className="company">{experience.company}</h4>
             <span>{experience.date}</span>
-            <p className="tasks">{experience.tasks}</p>
+            <p className="tasks">
+              {experience.tasks
+                .trim() 
+                .split("\n")
+                .filter((line) => line.trim() !== "")
+                .map((line, index) => (
+                  <React.Fragment key={index}>
+                    {line}
+                    <br />
+                  </React.Fragment>
+                ))}
+            </p>
+
           </div>
         </div>
       ))}
