@@ -1,6 +1,6 @@
 [
   {
-    "id": 14,
+    "id": 1,
     "name": "Aplicativo de Clima",
     "techs": ["Flutter", "Dart", "Provider", "Intl", "HTTP"],
     "imgs": [
@@ -12,205 +12,33 @@
     "code": "https://github.com/LucasPetruci/weather-app"
   },
   {
-    "id": 13,
-    "name": "Controle de Gastos - Front-end",
-    "techs": [
-      "Vite",
-      "TypeScript",
-      "React",
-      "React Form",
-      "React Router",
-      "Chart.js",
-      "TailWindCSS",
-      "Toastify"
-    ],
-    "imgs": [
-      "/statics/images/ExpenseControlFrontEnd/1.png",
-      "/statics/images/ExpenseControlFrontEnd/2.png",
-      "/statics/images/ExpenseControlFrontEnd/3.png",
-      "/statics/images/ExpenseControlFrontEnd/4.png"
-    ],
-    "demo": "https://expense-control-frontend.vercel.app/",
-    "code": "https://github.com/hiag0liveira/ExpenseControlFrontend"
-  },
-  {
-    "id": 12,
-    "name": "Controle de Gastos - Back-end",
-    "techs": [
-      "Nest",
-      "TypeScript",
-      "JWT",
-      "PostgreSQL",
-      "TypeORM",
-      "Class Validator",
-      "Insomnia",
-      "Jest"
-    ],
-    "imgs": [
-      "/statics/images/ExpenseControlBackEnd/1.png",
-      "/statics/images/ExpenseControlBackEnd/2.png",
-      "/statics/images/ExpenseControlBackEnd/3.png"
-    ],
-    "demo": "https://expense-control-frontend.vercel.app/",
-    "code": "https://github.com/hiag0liveira/ExpenseControlBackend"
-  },
-  {
-    "id": 1,
-    "name": "Breaking News - Front-end",
-    "techs": ["React", "JavaScript", "Express", "Node", "JWT", "Axios"],
-    "imgs": [
-      "/statics/images/BreakingNewsFrontEnd/1.png",
-      "/statics/images/BreakingNewsFrontEnd/2.png",
-      "/statics/images/BreakingNewsFrontEnd/3.png",
-      "/statics/images/BreakingNewsFrontEnd/4.png",
-      "/statics/images/BreakingNewsFrontEnd/5.png"
-    ],
-    "demo": "https://breaking-news-rho.vercel.app/",
-    "code": "https://github.com/hiag0liveira/BreakingNewsFrontEnd"
-  },
-  {
     "id": 2,
-    "name": "Breaking News - Back-end",
-    "techs": [""],
-    "imgs": [
-      "/statics/images/BreakingNewsBackEnd/1.png",
-      "/statics/images/BreakingNewsBackEnd/2.png",
-      "/statics/images/BreakingNewsBackEnd/3.png",
-      "/statics/images/BreakingNewsBackEnd/4.png"
-    ],
-    "demo": "https://api-breakingnews-dvti.onrender.com/doc/",
-    "code": "https://github.com/hiag0liveira/BreakingNewsBackEnd"
+    "name": "TODO",
+    "techs": ["Flutter", "Dart", "Hive"],
+    "imgs": ["/statics/images/TODO/1.png", "/statics/images/TODO/2.png"],
+    "demo": "https://virtual-cell-phone.vercel.app/app/To-do",
+    "code": "https://github.com/LucasPetruci/TODO"
   },
   {
     "id": 3,
-    "name": "Product Sales- API SpringBoot",
-    "techs": [
-      "Spring Boot",
-      "Java",
-      "Maven",
-      "H2 Database Engine",
-      "Lombok",
-      "Spring Security",
-      "Spring Data JPA",
-      "JWT",
-      "Postman"
-    ],
+    "name": "Calculadora",
+    "techs": ["Flutter", "Dart", "Provider", "Go_router", "Math expressions"],
     "imgs": [
-      "/statics/images/ProductSalesAPISpringBoot/1.png",
-      "/statics/images/ProductSalesAPISpringBoot/2.png",
-      "/statics/images/ProductSalesAPISpringBoot/3.png"
+      "/statics/images/Calculator/1.png",
+      "/statics/images/Calculator/2.png"
     ],
-    "demo": "https://documenter.getpostman.com/view/25811172/2s93JtQ3zT",
-    "code": "https://github.com/hiag0liveira/ProductSalesAPISpringBoot?tab=readme-ov-file"
+    "demo": "https://virtual-cell-phone.vercel.app/app/To-do",
+    "code": "https://github.com/LucasPetruci/TODO"
   },
   {
-    "id": 4,
-    "name": "Controle de Departamentos",
-    "techs": [
-      "Spring Boot",
-      "Java",
-      "Maven",
-      "PostgreSQL",
-      "Lombok",
-      "Spring Data JPA",
-      "MVC",
-      "Thymeleaf",
-      "WebJars",
-      "Bootstrap",
-      "Hibernate ORM"
-    ],
+    "id": 3,
+    "name": "Calculadora",
+    "techs": ["Flutter", "Dart", "Provider", "Go_router", "Math expressions"],
     "imgs": [
-      "/statics/images/DepartmentControlSpring/1.png",
-      "/statics/images/DepartmentControlSpring/2.png",
-      "/statics/images/DepartmentControlSpring/3.png",
-      "/statics/images/DepartmentControlSpring/4.png"
+      "/statics/images/Calculator/1.png",
+      "/statics/images/Calculator/2.png"
     ],
-    "demo": "https://departmentcontrolspring.onrender.com/",
-    "code": "https://github.com/hiag0liveira/DepartmentControlSpring"
-  },
-  {
-    "id": 5,
-    "name": "Controle de Inventário",
-    "techs": ["React Router", "React"],
-    "imgs": [
-      "/statics/images/InvetoryControl/1.png",
-      "/statics/images/InvetoryControl/2.png",
-      "/statics/images/InvetoryControl/3.png"
-    ],
-    "demo": "https://inventory-control-react.vercel.app/",
-    "code": "https://github.com/hiag0liveira/InventoryControlReact"
-  },
-  {
-    "id": 6,
-    "name": "Plantify",
-    "techs": ["React", "JavaScript", "TailwindCSS", "JWT", "Axios", "Vite"],
-    "imgs": [
-      "/statics/images/Plantify/1.png",
-      "/statics/images/Plantify/2.png",
-      "/statics/images/Plantify/3.png",
-      "/statics/images/Plantify/4.png",
-      "/statics/images/Plantify/5.png"
-    ],
-    "demo": "https://plantify-app.vercel.app/",
-    "code": "https://github.com/hiag0liveira/Plantify-APP"
-  },
-  {
-    "id": 7,
-    "name": "Jogo da Velha JS",
-    "techs": ["HTML5", "CSS3", "JavaScript"],
-    "imgs": [
-      "/statics/images/HashGameJS/1.png",
-      "/statics/images/HashGameJS/2.png",
-      "/statics/images/HashGameJS/3.png"
-    ],
-    "demo": "https://hiag0liveira.github.io/HashGameJS/",
-    "code": "https://github.com/hiag0liveira/HashGameJS"
-  },
-  {
-    "id": 8,
-    "name": "Calculadora JS",
-    "techs": ["HTML5", "CSS3", "JavaScript"],
-    "imgs": [
-      "/statics/images/CalculatorJS/1.png",
-      "/statics/images/CalculatorJS/2.png"
-    ],
-    "demo": "https://hiag0liveira.github.io/CalculatorJS/",
-    "code": "https://github.com/hiag0liveira/CalculatorJS"
-  },
-  {
-    "id": 9,
-    "name": "Loja de Eletrônicos",
-    "techs": ["Next", "JavaScript"],
-    "imgs": [
-      "/statics/images/ElectronicsStoreNext/1.png",
-      "/statics/images/ElectronicsStoreNext/2.png",
-      "/statics/images/ElectronicsStoreNext/3.png"
-    ],
-    "demo": "https://black-nextjs-lemon.vercel.app/",
-    "code": "https://github.com/hiag0liveira/ElectronicsStoreNext.JS"
-  },
-  {
-    "id": 10,
-    "name": "Ol1v3irax Spaceships",
-    "techs": ["HTML5", "Sass", "Bootstrap", "Animate On Scroll Library"],
-    "imgs": [
-      "/statics/images/Ol1v3iraxSpaceships/1.png",
-      "/statics/images/Ol1v3iraxSpaceships/2.png",
-      "/statics/images/Ol1v3iraxSpaceships/3.png",
-      "/statics/images/Ol1v3iraxSpaceships/4.png"
-    ],
-    "demo": "https://hiag0liveira.github.io/Ol1v3iraxSpaceships/",
-    "code": "https://github.com/hiag0liveira/Ol1v3iraxSpaceships"
-  },
-  {
-    "id": 11,
-    "name": "Registration Page Ol1v3irax",
-    "techs": ["HTML5", "Sass", "Bootstrap"],
-    "imgs": [
-      "/statics/images/RegistrationPageOl1v3irax/1.png",
-      "/statics/images/RegistrationPageOl1v3irax/2.png"
-    ],
-    "demo": "https://hiag0liveira.github.io/RegistrationPageOl1v3irax/",
-    "code": "https://github.com/hiag0liveira/RegistrationPageOl1v3irax"
+    "demo": "https://virtual-cell-phone.vercel.app/app/To-do",
+    "code": "https://github.com/LucasPetruci/TODO"
   }
 ]
