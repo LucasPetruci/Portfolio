@@ -5,7 +5,7 @@ const socialNetworks = [
   {
     name: "github",
     icon: <FaGithub />,
-    url: "https://github.com/hiag0liveira",
+    url: "https://github.com/LucasPetruci",
   },
 ];
 
