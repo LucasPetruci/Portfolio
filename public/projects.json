@@ -29,16 +29,5 @@
     ],
     "demo": "https://virtual-cell-phone.vercel.app/app/To-do",
     "code": "https://github.com/LucasPetruci/TODO"
-  },
-  {
-    "id": 3,
-    "name": "Calculadora",
-    "techs": ["Flutter", "Dart", "Provider", "Go_router", "Math expressions"],
-    "imgs": [
-      "/statics/images/Calculator/1.png",
-      "/statics/images/Calculator/2.png"
-    ],
-    "demo": "https://virtual-cell-phone.vercel.app/app/To-do",
-    "code": "https://github.com/LucasPetruci/TODO"
   }
 ]
