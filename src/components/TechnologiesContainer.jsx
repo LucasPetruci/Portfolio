@@ -12,6 +12,8 @@ import {
  
 } from "react-icons/si";
 
+import { FaGithub, FaDocker, FaGitAlt} from "react-icons/fa";
+
 import "../styles/components/technologiescontainer.sass";
 
 const technologies = [
@@ -20,7 +22,10 @@ const technologies = [
   {id: "kotlin", name: "Kotlin", icon: <SiKotlin/>},
   {id: "firebase", name: "Firebase", icon: <SiFirebase/>},
   {id: "mysql", name: "MySQL", icon: <DiMysql/>},
-  {id: "python", name: "Python", icon: <DiPython/>}
+  {id: "python", name: "Python", icon: <DiPython/>},
+  { id: "github", name: "GitHub", icon: <FaGithub /> },
+  { id: "git", name: "Git", icon: <FaGitAlt /> },
+  { id: "docker", name: "Docker", icon: <FaDocker /> },
 ];
 
 const TechnologiesContainer = () => {
