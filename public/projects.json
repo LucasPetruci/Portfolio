@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "Aplicativo de Clima",
-    "techs": ["Flutter", "Dart", "Provider", "Intl", "HTTP"],
+    "name": "Weather App",
+    "techs": ["Flutter", "Dart", "Provider", "Intl", "API MeteoSource", "HTTP"],
     "imgs": [
       "/statics/images/WeatherApp/1.png",
       "/statics/images/WeatherApp/2.png",
@@ -13,6 +13,31 @@
   },
   {
     "id": 2,
+    "name": "Nike Shop",
+    "techs": [
+      "Flutter",
+      "Dart",
+      "Provider",
+      "API Melhor Envio",
+      "HTTP",
+      "google_nav_bar",
+      "carousel_slider",
+      "flutter_dotenv",
+      "url_launcher"
+    ],
+    "imgs": [
+      "/statics/images/NikeShop/1.png",
+      "/statics/images/NikeShop/2.png",
+      "/statics/images/NikeShop/3.png",
+      "/statics/images/NikeShop/4.png",
+      "/statics/images/NikeShop/5.png",
+      "/statics/images/NikeShop/6.png"
+    ],
+    "demo": "https://virtual-cell-phone.vercel.app/app/Nike%20Shop",
+    "code": "https://github.com/LucasPetruci/ecommerce_app"
+  },
+  {
+    "id": 3,
     "name": "TODO",
     "techs": ["Flutter", "Dart", "Hive"],
     "imgs": ["/statics/images/TODO/1.png", "/statics/images/TODO/2.png"],
@@ -20,7 +45,7 @@
     "code": "https://github.com/LucasPetruci/TODO"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Calculadora",
     "techs": ["Flutter", "Dart", "Provider", "Go_router", "Math expressions"],
     "imgs": [
