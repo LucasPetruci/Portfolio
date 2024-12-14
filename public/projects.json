@@ -23,7 +23,9 @@
       "google_nav_bar",
       "carousel_slider",
       "flutter_dotenv",
-      "url_launcher"
+      "url_launcher",
+      "mockito",
+      "build_runner"
     ],
     "imgs": [
       "/statics/images/NikeShop/1.png",
