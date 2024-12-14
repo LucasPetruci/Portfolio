@@ -20,12 +20,12 @@
       "Provider",
       "API Melhor Envio",
       "HTTP",
-      "google_nav_bar",
-      "carousel_slider",
-      "flutter_dotenv",
-      "url_launcher",
-      "mockito",
-      "build_runner"
+      "Google_nav_bar",
+      "Carousel_slider",
+      "Flutter_dotenv",
+      "Url_launcher",
+      "Mockito",
+      "Build_runner"
     ],
     "imgs": [
       "/statics/images/NikeShop/1.png",
