@@ -3,10 +3,10 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre Mim</h2>
       <p>
-        Sou um desenvolvedor mobile especializado em Flutter, com experiência em criar interfaces intuitivas e performáticas. Tenho uma sólida formação em desenvolvimento de aplicativos móveis e análise de dados, com habilidades que abrangem desde o consumo de APIs RESTful até a implementação de padrões de design como MVC e princípios de SOLID.
+       Sou um desenvolvedor mobile especializado em Flutter, com vasta experiência na criação de interfaces intuitivas, performáticas e centradas no usuário. Minha formação sólida em desenvolvimento de aplicativos móveis me permite atuar com excelência em todo o ciclo de criação, desde o consumo de APIs RESTful até a aplicação de padrões de design avançados como MVC e os princípios de SOLID.
       </p>
       <p>
-        Minha experiência inclui trabalhar com bancos de dados relacionais, automação de processos em Python, gerenciamento de estados em aplicativos e controle de versionamento com Git e GitHub. Sou apaixonado por tecnologia e sempre busco aprimorar minhas habilidades para contribuir com projetos inovadores e desafiadores.
+        Estou sempre em busca de aprimorar minhas habilidades e contribuir para projetos inovadores, entregando soluções eficientes e alinhadas às melhores práticas de mercado.
       </p>
     </section>
   );
