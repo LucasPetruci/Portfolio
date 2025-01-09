@@ -40,6 +40,32 @@
   },
   {
     "id": 3,
+    "name": "Taski",
+    "techs": [
+      "Flutter",
+      "Dart",
+      "Hive",
+      "Provider",
+      "GoRouter",
+      "Flutter Test",
+      "Mockito",
+      "Build_runner",
+      "Hive Test"
+    ],
+    "imgs": [
+      "/statics/images/Taski/1.png",
+      "/statics/images/Taski/2.png",
+      "/statics/images/Taski/3.png",
+      "/statics/images/Taski/4.png",
+      "/statics/images/Taski/5.png",
+      "/statics/images/Taski/6.png",
+      "/statics/images/Taski/7.png"
+    ],
+    "demo": "https://virtual-cell-phone.vercel.app/app/Taski",
+    "code": "https://github.com/LucasPetruci/taski_to_do"
+  },
+  {
+    "id": 4,
     "name": "TODO",
     "techs": ["Flutter", "Dart", "Hive"],
     "imgs": ["/statics/images/TODO/1.png", "/statics/images/TODO/2.png"],
@@ -47,7 +73,7 @@
     "code": "https://github.com/LucasPetruci/TODO"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Calculadora",
     "techs": ["Flutter", "Dart", "Provider", "Go_router", "Math expressions"],
     "imgs": [
