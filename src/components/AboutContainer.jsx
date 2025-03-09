@@ -3,11 +3,10 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre Mim</h2>
       <p>
-       Sou um desenvolvedor mobile especializado em Flutter, com vasta experiência na criação de interfaces intuitivas, performáticas e centradas no usuário. Minha formação sólida em desenvolvimento de aplicativos móveis me permite atuar com excelência em todo o ciclo de criação, desde o consumo de APIs RESTful até a aplicação de padrões de design avançados como MVC e os princípios de SOLID.
+    Atualmente, desenvolvo aplicações mobile com Flutter e React Native, criando interfaces responsivas e integrando funcionalidades avançadas, como geolocalização e módulos nativos em Kotlin para Android. No back-end, atuo com PHP e AWS, garantindo escalabilidade, segurança e alto desempenho. Além do desenvolvimento mobile e web, tenho experiência em análise de dados, utilizando Python e SQL para extração, tratamento e modelagem preditiva, aplicando técnicas de machine learning para suporte à tomada de decisões. Meu foco é entregar soluções eficientes e bem estruturadas, combinando conhecimento técnico e boas práticas de desenvolvimento.
       </p>
-      <p>
-        Estou sempre em busca de aprimorar minhas habilidades e contribuir para projetos inovadores, entregando soluções eficientes e alinhadas às melhores práticas de mercado.
-      </p>
+     
+     
     </section>
   );
 };
