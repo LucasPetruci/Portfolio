@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "FsTech",
+    "img": "/statics/images/Companies/fs_tech.png",
+    "link": "https://fstech.digital/"
+  },
+  {
+    "id": 2,
+    "name": "JáCredenciei",
+    "img": "/statics/images/Companies/ja_credenciei.png",
+    "link": "https://jacredenciei.com.br/"
+  },
+  {
+    "id": 3,
+    "name": "JáCredenciei",
+    "img": "/statics/images/Companies/ted_sustentavel.png",
+    "link": "https://tedsustentavel.com.br/"
+  },
+  {
+    "id": 4,
+    "name": "Cnpq",
+    "img": "/statics/images/Companies/cnpq.png",
+    "link": "https://www.gov.br/cnpq/pt-br"
+  },
+  {
+    "id": 5,
+    "name": "Embrapii",
+    "img": "/statics/images/Companies/embrapii.png",
+    "link": "https://embrapii.org.br/"
+  }
+]

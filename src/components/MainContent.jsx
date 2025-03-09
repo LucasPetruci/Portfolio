@@ -4,6 +4,7 @@ import ProjectsContainer from "./ProjectsContainer";
 import "../styles/components/maincontent.sass";
 import EducationContainer from "./EducationContainer";
 import ExperienceContainer from "./ExperienceContainer";
+import CompaniesContainer from "./CompaniesContainer";
 
 const MainContent = () => {
   return (
@@ -14,6 +15,10 @@ const MainContent = () => {
 
       <section id="Experiencia Profissional">
         <ExperienceContainer />
+      </section>
+
+      <section id="Empresas">
+        <CompaniesContainer /> 
       </section>
 
       <section id="Formação Acadêmica">
