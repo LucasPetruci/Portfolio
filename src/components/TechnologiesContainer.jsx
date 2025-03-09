@@ -9,8 +9,11 @@ import {
   SiDart,
   SiKotlin,
   SiFirebase,
- 
+  SiPhp,
+  SiReact,
 } from "react-icons/si";
+
+import { FaAws } from "react-icons/fa";
 
 import { FaGithub, FaDocker, FaGitAlt} from "react-icons/fa";
 
@@ -26,6 +29,9 @@ const technologies = [
   { id: "github", name: "GitHub", icon: <FaGithub /> },
   { id: "git", name: "Git", icon: <FaGitAlt /> },
   { id: "docker", name: "Docker", icon: <FaDocker /> },
+  { id: "php", name: "PHP", icon: <SiPhp /> },
+  {id: "react_native", name: "React Native", icon: <SiReact/>},
+  {id: "aws", name: "AWS", icon: <FaAws/>},
 ];
 
 const TechnologiesContainer = () => {
