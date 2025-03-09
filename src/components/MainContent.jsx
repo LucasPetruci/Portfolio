@@ -17,7 +17,7 @@ const MainContent = () => {
         <ExperienceContainer />
       </section>
 
-      <section id="Empresas">
+      <section id="Atuação Profissional">
         <CompaniesContainer /> 
       </section>
 

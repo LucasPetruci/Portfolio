@@ -11,6 +11,7 @@ const Sidebar = () => {
     const sections = [
       "Sobre Mim",
       "Experiencia Profissional",
+      "Atuação Profissional",
       "Formação Acadêmica",
       "Projetos",
       "Tecnologias",
@@ -68,6 +69,7 @@ const Sidebar = () => {
           {[
             "Sobre Mim",
             "Experiencia Profissional",
+            "Atuação Profissional",
             "Formação Acadêmica",
             "Projetos",
             "Tecnologias",
