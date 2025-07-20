@@ -1,14 +1,10 @@
 import "../styles/components/informationcontainer.sass";
 import { FaLinkedinIn } from "react-icons/fa";
-import { AiOutlineMail, AiFillEnvironment } from "react-icons/ai";
+import { AiOutlineMail} from "react-icons/ai";
 
 const InformationContainer = () => {
   const handleEmailClick = () => {
     window.location.href = "mailto:lucaspetruci100@gmail.com";
-  };
-
-  const handleLocationClick = () => {
-    window.open("https://maps.app.goo.gl/ok61zQmxLWXsREAA9", "_blank");
   };
 
   const handleLikedinClick = () => {
@@ -32,13 +28,6 @@ const InformationContainer = () => {
         <div>
           <h3>E-mail</h3>
           <p>lucaspetruci100@gmail.com</p>
-        </div>
-      </div>
-      <div className="info-card" onClick={handleLocationClick}>
-        <AiFillEnvironment id="pin-icon" />
-        <div>
-          <h3>Localização</h3>
-          <p>Campos dos Goytacazes / RJ</p>
         </div>
       </div>
     </section>

@@ -3,7 +3,7 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre Mim</h2>
       <p>
-    Atualmente, desenvolvo aplicações mobile com Flutter e React Native, criando interfaces responsivas e integrando funcionalidades avançadas, como geolocalização e módulos nativos em Kotlin para Android. No back-end, atuo com PHP e AWS, garantindo escalabilidade, segurança e alto desempenho. Além do desenvolvimento mobile e web, tenho experiência em análise de dados, utilizando Python e SQL para extração, tratamento e modelagem preditiva, aplicando técnicas de machine learning para suporte à tomada de decisões. Meu foco é entregar soluções eficientes e bem estruturadas, combinando conhecimento técnico e boas práticas de desenvolvimento.
+    Atuo como Desenvolvedor Júnior na GCondo, onde participo do desenvolvimento e evolução de sistemas web e mobile, com destaque para a criação de novos módulos e uma API otimizada para melhorar o desempenho da aplicação. Paralelamente, trabalho como freelancer na FsTech, desenvolvendo soluções para diversos clientes, incluindo manutenção de sistemas em PHP e React Native, criação de MVPs com Next.js e automações com Python e Twilio para atendimento via WhatsApp. 
       </p>
      
      

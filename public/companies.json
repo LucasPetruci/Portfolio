@@ -1,4 +1,11 @@
 [
+
+  {
+    "id": 0,
+    "name": "GCondo",
+    "img": "/statics/images/Companies/gcondo.png",
+    "link": "https://gcondo.com.br/"
+  },
   {
     "id": 1,
     "name": "FsTech",
