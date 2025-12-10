@@ -3,7 +3,7 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre Mim</h2>
       <p>
-    Atuo como Desenvolvedor Júnior na GCondo, onde participo do desenvolvimento e evolução de sistemas web e mobile, com destaque para a criação de novos módulos e uma API otimizada para melhorar o desempenho da aplicação. Paralelamente, trabalho como freelancer na FsTech, desenvolvendo soluções para diversos clientes, incluindo manutenção de sistemas em PHP e React Native, criação de MVPs com Next.js e automações com Python e Twilio para atendimento via WhatsApp. 
+    Desenvolvedor Full Stack Júnior com experiência em todo o ciclo de desenvolvimento de software. Atuo no desenvolvimento web com PHP e React.js, com sólidos conhecimentos em JavaScript e TypeScript. Também possuo experiência com Node.js e Python em arquitetura de microserviços, além de familiaridade com AWS e Git. Minha trajetória é marcada pela redução de 30% nos chamados de suporte, entregas consistentes e promoção para Júnior após apenas dois meses. 
       </p>
      
      
