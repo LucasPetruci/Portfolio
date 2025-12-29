@@ -8,79 +8,19 @@
       "/statics/images/Gcondo/2.png",
       "/statics/images/Gcondo/3.png"
     ],
-    "demo": "https://virtual-cell-phone.vercel.app/app/Clima",
-    "code": "https://github.com/LucasPetruci/weather-app"
+    "demo": "https://gcondo.com.br/",
+    "code": ""
   },
   {
     "id": 2,
-    "name": "Nike Shop",
-    "techs": [
-      "Flutter",
-      "Dart",
-      "Provider",
-      "API Melhor Envio",
-      "HTTP",
-      "Google_nav_bar",
-      "Carousel_slider",
-      "Flutter_dotenv",
-      "Url_launcher",
-      "Mockito",
-      "Build_runner"
-    ],
+    "name": "JaCredenciei",
+    "techs": ["PHP", "CakePHP", "MySql", "JavaScript", "HTML", "CSS"],
     "imgs": [
-      "/statics/images/NikeShop/1.png",
-      "/statics/images/NikeShop/2.png",
-      "/statics/images/NikeShop/3.png",
-      "/statics/images/NikeShop/4.png",
-      "/statics/images/NikeShop/5.png",
-      "/statics/images/NikeShop/6.png"
+      "/statics/images/JaCredenciei/1.png",
+      "/statics/images/JaCredenciei/2.png",
+      "/statics/images/JaCredenciei/3.png"
     ],
-    "demo": "https://virtual-cell-phone.vercel.app/app/Nike%20Shop",
-    "code": "https://github.com/LucasPetruci/ecommerce_app"
-  },
-  {
-    "id": 3,
-    "name": "Taski",
-    "techs": [
-      "Flutter",
-      "Dart",
-      "Hive",
-      "Provider",
-      "GoRouter",
-      "Flutter Test",
-      "Mockito",
-      "Build_runner",
-      "Hive Test"
-    ],
-    "imgs": [
-      "/statics/images/Taski/1.png",
-      "/statics/images/Taski/2.png",
-      "/statics/images/Taski/3.png",
-      "/statics/images/Taski/4.png",
-      "/statics/images/Taski/5.png",
-      "/statics/images/Taski/6.png",
-      "/statics/images/Taski/7.png"
-    ],
-    "demo": "https://virtual-cell-phone.vercel.app/app/Taski",
-    "code": "https://github.com/LucasPetruci/taski_to_do"
-  },
-  {
-    "id": 4,
-    "name": "TODO",
-    "techs": ["Flutter", "Dart", "Hive"],
-    "imgs": ["/statics/images/TODO/1.png", "/statics/images/TODO/2.png"],
-    "demo": "https://virtual-cell-phone.vercel.app/app/To-do",
-    "code": "https://github.com/LucasPetruci/TODO"
-  },
-  {
-    "id": 5,
-    "name": "Calculadora",
-    "techs": ["Flutter", "Dart", "Provider", "Go_router", "Math expressions"],
-    "imgs": [
-      "/statics/images/Calculator/1.png",
-      "/statics/images/Calculator/2.png"
-    ],
-    "demo": "https://virtual-cell-phone.vercel.app/app/To-do",
-    "code": "https://github.com/LucasPetruci/TODO"
+    "demo": "https://jacredenciei.com.br/",
+    "code": ""
   }
 ]

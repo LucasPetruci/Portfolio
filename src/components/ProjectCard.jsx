@@ -20,6 +20,9 @@ const ProjectCard = ({ project }) => {
     autoplaySpeed: 3500,
   };
 
+  const hasCode = typeof project?.code === "string" && project.code.trim() !== "";
+
+
   useEffect(() => {
     if (textRef.current) {
       const hasOverflow =
@@ -64,9 +67,11 @@ const ProjectCard = ({ project }) => {
         <a href={project.demo} target="_blank" rel="noopener noreferrer">
           Demo <FaEye />
         </a>
-        <a href={project.code} target="_blank" rel="noopener noreferrer">
-          Code <FaCode />
-        </a>
+        {project?.code && (
+          <a href={project.code} target="_blank" rel="noopener noreferrer">
+            Code <FaCode />
+          </a>
+        )}
       </div>
     </div>
   );
