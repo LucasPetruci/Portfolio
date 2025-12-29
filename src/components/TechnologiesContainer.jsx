@@ -5,10 +5,6 @@ import {
 } from "react-icons/di";
 
 import {
-  SiFlutter,
-  SiDart,
-  SiKotlin,
-  SiFirebase,
   SiPhp,
   SiReact,
 } from "react-icons/si";
@@ -20,19 +16,17 @@ import { FaGithub, FaDocker, FaGitAlt} from "react-icons/fa";
 import "../styles/components/technologiescontainer.sass";
 
 const technologies = [
-  { id: "flutter", name: "Flutter", icon: <SiFlutter /> },
-  { id: "dart", name: "Dart", icon: <SiDart /> },
-  {id: "kotlin", name: "Kotlin", icon: <SiKotlin/>},
-  {id: "firebase", name: "Firebase", icon: <SiFirebase/>},
-  {id: "mysql", name: "MySQL", icon: <DiMysql/>},
-  {id: "python", name: "Python", icon: <DiPython/>},
-  { id: "github", name: "GitHub", icon: <FaGithub /> },
-  { id: "git", name: "Git", icon: <FaGitAlt /> },
+  { id: "aws", name: "AWS", icon: <FaAws /> },
   { id: "docker", name: "Docker", icon: <FaDocker /> },
+  { id: "git", name: "Git", icon: <FaGitAlt /> },
+  { id: "github", name: "GitHub", icon: <FaGithub /> },
+  { id: "mysql", name: "MySQL", icon: <DiMysql /> },
   { id: "php", name: "PHP", icon: <SiPhp /> },
-  {id: "react_native", name: "React Native", icon: <SiReact/>},
-  {id: "aws", name: "AWS", icon: <FaAws/>},
+  { id: "python", name: "Python", icon: <DiPython /> },
+  { id: "react", name: "React", icon: <SiReact /> },
+  { id: "react_native", name: "React Native", icon: <SiReact /> },
 ];
+
 
 const TechnologiesContainer = () => {
   return (
