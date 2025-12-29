@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Gcondo",
-    "techs": ["PHP", "Eloquent", "React", "MySql", "Node.js"],
+    "techs": ["PHP", "Eloquent", "React", "MySql", "Node.js, Git/Github", "AntD"],
     "imgs": [
       "/statics/images/Gcondo/1.png",
       "/statics/images/Gcondo/2.png",
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "name": "JaCredenciei",
-    "techs": ["PHP", "CakePHP", "MySql", "JavaScript", "HTML", "CSS"],
+    "techs": ["PHP", "CakePHP", "MySql", "JavaScript", "Git/Github", "CI/CD", "Checkout (PagBank)", "HTML", "CSS", "AWS", "Aws Lambda", "Python","React Native", "Expo"],
     "imgs": [
       "/statics/images/JaCredenciei/1.png",
       "/statics/images/JaCredenciei/2.png",

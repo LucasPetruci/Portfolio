@@ -16,26 +16,14 @@ const ExperienceContainer = () => {
       company:
         "FsTech",
       date: "Junho/2024 - Maio/2025",
-       tasks: `Responsável pela manutenção e desenvolvimento de aplicações web utilizando Next.js e sistemas PHP. Desenvolvi microsserviços em Python com integração à OpenAI API para automação de fluxos. Implementei CI/CD com GitHub Actions para deploy automatizado em Amazon Lambda com Amazon SQS. Realizei integração completa de pagamento com PagBank, incluindo checkout, webhooks e testes em ambiente de homologação. Gerenciei ambientes de desenvolvimento com Dockerfile e Docker Compose, garantindo consistência entre ambientes de desenvolvimento e produção.`,
+       tasks: `Atuei como Desenvolvedor Full Stack freelancer na FsTech, colaborando com diversos clientes e atuando como principal desenvolvedor da empresa em diferentes projetos. Ao longo dessa experiência, assumi responsabilidades técnicas de ponta a ponta, desde o levantamento de requisitos e contato direto com os clientes até o desenvolvimento, manutenção e evolução das soluções. Trabalhei com aplicações web e mobile utilizando PHP (CakePHP), Next.js e React Native, realizando integrações com APIs REST, serviços da AWS e sistemas de pagamento como o PagBank. Também desenvolvi soluções em Python, incluindo microsserviços, bots e automações, contribuindo para a otimização de processos e entrega contínua de valor, sempre com foco em qualidade, performance e escalabilidade`,
     },
     {
-      title: "Desenvolvedor Mobile",
+      title: "Polo de Inovação",
       company:
         "Polo de Inovação Campos dos Goytacazes (PICG) - SoftSeg e Embrapii",
-      date: "Abril/2024 - Dezembro/2024",
-      tasks: `Desenvolvi telas responsivas em Flutter para Android e iOS, transformando protótipos em interfaces funcionais com ótima experiência de usuário. Colaborei com equipes de design e desenvolvimento para alinhar requisitos e garantir consistência entre UX e implementação. Implementei funcionalidades de geolocalização integrando Google Maps e Geocoding. Desenvolvi módulos nativos em Kotlin para aprimorar suporte a GPS e funcionalidades específicas do Android. Realizei consumo de APIs RESTful, gerenciamento de estado com Provider e utilizei Firebase Crashlytics para monitoramento de erros. Implementei testes unitários com Pytest, garantindo qualidade e estabilidade do software.`,
-    },
-    {
-      title: "Analista de Dados",
-      company: "Polo de Inovação Campos dos Goytacazes (PICG) - T&D Sustentável",
-      date: "Setembro/2023 - Abril/2024",
-      tasks: `Realizei extração e análise de grandes volumes de dados utilizando Python, com bibliotecas como Pandas e NumPy para processamento e visualização. Desenvolvi modelos preditivos baseados em Regressão Linear para identificação de padrões e antecipação de tendências. Otimizei consultas SQL em MySQL, melhorando a performance no acesso e manipulação de dados. Gerei relatórios interativos e extraí insights estratégicos para embasar tomada de decisões dos stakeholders, contribuindo para otimização de processos.`,
-    },
-    {
-      title: "Q&A",
-      company: "Polo de Inovação Campos dos Goytacazes (PICG)",
-      date: "Agosto/2022 - Setembro/2023",
-      tasks: `Contribuí para modernização da Biblioteca ShouldDSL, migrando código para compatibilidade com Python 3. Implementei testes automatizados seguindo metodologia TDD, aumentando confiabilidade do desenvolvimento. Integrei testes utilizando Pytest com geração de relatórios detalhados em HTML para análise de qualidade do software. Identifiquei possíveis melhorias e contribuí para um processo de desenvolvimento mais eficiente e estruturado.`,
+      date: "2023 - 2024",
+      tasks: `Atuei como bolsista no Polo de Inovação do Instituto Federal Fluminense, iniciando como apoio em atividades de desenvolvimento e, ao longo do período, me destacando até assumir responsabilidades em tempo integral em diferentes projetos. Trabalhei no desenvolvimento de interfaces responsivas em Flutter para Android e iOS, colaborando com equipes de design e desenvolvimento para alinhar requisitos e garantir consistência entre UX e implementação. Também atuei na implementação de testes unitários com Pytest e em projetos de análise de dados em Python, aplicando regressão linear para predição e geração de insights.`,
     },
   ];
 
