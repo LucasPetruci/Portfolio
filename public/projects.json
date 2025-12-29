@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Weather App",
-    "techs": ["Flutter", "Dart", "Provider", "Intl", "API MeteoSource", "HTTP"],
+    "name": "Gcondo",
+    "techs": ["PHP", "Eloquent", "React", "MySql", "Node.js"],
     "imgs": [
-      "/statics/images/WeatherApp/1.png",
-      "/statics/images/WeatherApp/2.png",
-      "/statics/images/WeatherApp/3.png"
+      "/statics/images/Gcondo/1.png",
+      "/statics/images/Gcondo/2.png",
+      "/statics/images/Gcondo/3.png"
     ],
     "demo": "https://virtual-cell-phone.vercel.app/app/Clima",
     "code": "https://github.com/LucasPetruci/weather-app"

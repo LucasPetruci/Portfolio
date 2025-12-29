@@ -6,7 +6,7 @@ import "../styles/components/projectsContainer.sass";
 const ProjectsContainer = () => {
   const [projects, setProjects] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const projectsPerPage = 3;
+  const projectsPerPage = 2;
 
   useEffect(() => {
     fetch("/projects.json")
