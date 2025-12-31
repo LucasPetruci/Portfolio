@@ -42,6 +42,7 @@ const technologies = [
   { id: "php", name: "PHP", icon: <SiPhp /> },
   { id: "python", name: "Python", icon: <DiPython /> },
   { id: "react", name: "React", icon: <SiReact /> },
+  { id: "react_native", name: "React Native", icon: <SiReact /> },
 ];
 
 
