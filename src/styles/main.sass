@@ -1,19 +1,46 @@
 @use 'variables'
 
 *
-    padding: 0
-    margin: 0
-    font-family: variables.$font-stack
-    box-sizing: border-box
+  padding: 0
+  margin: 0
+  font-family: variables.$font-stack
+  box-sizing: border-box
+
+html, body
+  width: 100%
+  overflow-x: hidden
 
 body
-    background-color: variables.$body-bg-color
-    // background-image: url('../img/background.jpg')
-    background-size: cover
-    background-position: center
-    min-height: 100vh
-    min-width: 430px
-
+  background-color: variables.$body-bg-color
+  background-size: cover
+  background-position: center
+  min-height: 100vh
+  min-width: 0
 
 a, svg
-    transition: .4s
+  transition: .4s
+
+img, video, svg, canvas
+  max-width: 100%
+  height: auto
+
+@media (max-width: 880px)
+  #portfolio
+    width: 100%
+    overflow-x: hidden
+
+    > *
+      min-width: 0
+      max-width: 100%
+
+  #sidebar,
+  #main-content
+    width: 100%
+    max-width: 100%
+    min-width: 0
+
+  .swiper,
+  .slick-slider,
+  .slick-list
+    max-width: 100%
+    overflow: hidden

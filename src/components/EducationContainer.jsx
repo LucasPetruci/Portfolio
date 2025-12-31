@@ -7,7 +7,7 @@ const EducationContainer = () => {
     {
       title: "Bacharelado em Sistemas de Informação",
       institution: "Instituto Federal Fluminense",
-      date: "2020 - 2025",
+      date: "2021 - 2026",
     },
   ];
 

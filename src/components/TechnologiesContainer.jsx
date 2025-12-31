@@ -25,6 +25,19 @@ const technologies = [
   { id: "python", name: "Python", icon: <DiPython /> },
   { id: "react", name: "React", icon: <SiReact /> },
   { id: "react_native", name: "React Native", icon: <SiReact /> },
+
+    // 🔽 Tecnologias usadas no trabalho (ainda sem ícone/import)
+  // { id: "node", name: "Node.js" },
+  // { id: "javascript", name: "JavaScript" },
+  // { id: "html", name: "HTML" },
+  // { id: "css", name: "CSS" },
+  // { id: "antd", name: "Ant Design (AntD)" },
+  // { id: "cakephp", name: "CakePHP" },
+  // { id: "eloquent", name: "Eloquent ORM" },
+  // { id: "ci_cd", name: "CI/CD" },
+  // { id: "aws_lambda", name: "AWS Lambda" },
+  // { id: "expo", name: "Expo" },
+  // { id: "pagbank", name: "Checkout (PagBank)" },
 ];
 
 
